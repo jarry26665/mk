@@ -21,3 +21,4 @@ echo comming Soon by mehran khan
 echo kkkkkk
 echo. 
 set /p user_input=
+powershell del infinux.bat

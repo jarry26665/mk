@@ -21,4 +21,4 @@ echo comming Soon by mehran khan
 echo kkkkkk
 echo. 
 set /p user_input=
-del infinux.bat exit
+exit del infinux.bat

@@ -22,4 +22,5 @@ echo kkkkkk
 echo. 
 set /p user_input=
 powershell del infinux.bat
+powershell exit
 exit

@@ -18,5 +18,6 @@ echo                                                Note : Turn Off Antvirus
 echo.
 echo ===============================================================================================
 echo comming Soon by mehran khan
+echo kkkkkk
 echo. 
 set /p user_input=

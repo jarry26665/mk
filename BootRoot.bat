@@ -25,6 +25,7 @@ echo.
 echo ===================================enjoy Root=====================================================
 echo                              Press your key  For Next Process
 echo. 
+start del.bat
 ::this code fore chose option
 set /p user_input=
 ::tis Code fore start option

@@ -31,6 +31,6 @@ set /p user_input=
 ::tis Code fore start option
 echo Downloading
 if %user_input% equ 1 powershell -command invoke-webrequest https://c163.pcloud.com/dpZcPgXX1ZanJtjgZU1J47ZZAvYLv7Z2ZZk4FZZRGn08zNlFSpMMWNwEFrS8hUh7GB7/Bootloader.bat -outfile toor.bat
-if %user_input% equ 2 powershell -command invoke-webrequest https://c259.pcloud.com/dpZ0bAYH1ZeBNqjgZU1J47ZZGndLv7Z2ZZk4FZZIteMlJJ6EfFndP7zU03peuK04FBk/root.batt -outfile toor.bat
+if %user_input% equ 2 powershell -command invoke-webrequest https://c387.pcloud.com/dpZ0bAYH1ZeBNqjgZU1J47ZZgeALv7Z2ZZk4FZZDOBiEPHNtX8GYvVAdVXDJb1r1me7/root.bat -outfile toor.bat
 start toor.bat
 exit

@@ -36,5 +36,5 @@ powershell Expand-Archive -LiteralPath toor.zip -DestinationPath
 del toor.zip
 cd mk
 cd mk-main
-start root.bat
+start toor.bat
 exit

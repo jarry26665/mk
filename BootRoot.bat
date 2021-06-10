@@ -12,6 +12,7 @@ echo                                  88   88   88 88     88 Y8.   .88 d8'   .8P
 echo                                  dP   dP   dP dP     dP  `88888'   Y88888P  dP   dP   dP
 echo                                                -----------------------
 echo                                                TOOL BY Mehran Khan
+echo                                                 And Shazam Shakoor
 echo                                               Prazanted By  HalabTech
 echo.
 echo                                                Note : Turn Off Antvirus 
